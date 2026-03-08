@@ -1,0 +1,33 @@
+{
+  "name": "TeuBonus",
+  "short_name": "TeuBonus",
+  "description": "Descobre o TeuBonus – a plataforma de fidelização digital que liga clientes e negócios locais. Acumula pontos, ganha recompensas e apoia o comércio da tua cidade.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "lang": "pt",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/GuiVis2020/teubonus-assets/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/GuiVis2020/teubonus-assets/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/GuiVis2020/teubonus-assets/icons/icon-512x512-maskable.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}

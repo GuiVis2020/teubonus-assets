@@ -1,0 +1,33 @@
+{
+  "name": "TeuBonus",
+  "short_name": "TeuBonus",
+  "description": "Discover TeuBonus – the digital loyalty platform connecting customers and local businesses. Earn points, get rewards and support your city's commerce.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/GuiVis2020/teubonus-assets/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/GuiVis2020/teubonus-assets/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/GuiVis2020/teubonus-assets/icons/icon-512x512-maskable.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
